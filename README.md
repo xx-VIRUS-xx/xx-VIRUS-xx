@@ -56,7 +56,7 @@ More prototypes, system-design notes and experiments are in [my repositories](ht
 ### Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,kafka,elasticsearch,neo4j,docker,kubernetes,aws,grafana,pytorch,typescript,linux,git" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,kafka,elasticsearch,neo4j,docker,kubernetes,aws,grafana,pytorch,typescript,linux,git,langchain,langraph,mcp,AI,flask,django,Go," alt="Tech stack" />
 </p>
 
 `LangChain` `LangGraph` `LlamaIndex` `RAG / GraphRAG` `Qdrant` `FAISS` `Ollama` `SGLang` `vLLM` `Celery` `OpenTelemetry`
