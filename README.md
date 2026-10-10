@@ -15,7 +15,7 @@
 
 ### About
 
-I lead an AI engineering team in India. B.Tech in Computer Engineering (2021), and I earned the AWS Developer – Associate and Database – Specialty certifications in 2022 (both since expired, see below). My work sits where LLM applications meet infrastructure: retrieval and memory for agents, local LLM inference, and the queues, search clusters and services that keep them running in production.
+I lead an AI engineering team in India. B.Tech in Computer Engineering (2021), and I earned the AWS Developer – Associate and Database – Specialty certifications in 2022 (see below). My work sits where LLM applications meet infrastructure: retrieval and memory for agents, local LLM inference, and the queues, search clusters and services that keep them running in production.
 
 On the side I do research and publish it **with the failures included**: each experiment has a design doc and a results doc, and negative results stay in.
 
@@ -34,8 +34,8 @@ On the side I do research and publish it **with the failures included**: each ex
   <a href="https://www.credly.com/badges/e06c12c3-ee70-406e-9f50-0bd8890c21dc"><img src="https://images.credly.com/images/885d38e4-55c0-4c35-b4ed-694e2b26be6c/image.png" alt="AWS Certified Database – Specialty" height="120"></a>
 </p>
 
-- **AWS Certified Developer – Associate**: issued May 2022, expired May 2025 · [verify on Credly](https://www.credly.com/badges/201b1ea0-1d66-4403-87d3-c6dbd2b17826)
-- **AWS Certified Database – Specialty**: issued Oct 2022, expired Oct 2025 · [verify on Credly](https://www.credly.com/badges/e06c12c3-ee70-406e-9f50-0bd8890c21dc)
+- **AWS Certified Developer – Associate**: earned May 2022 · [verify on Credly](https://www.credly.com/badges/201b1ea0-1d66-4403-87d3-c6dbd2b17826)
+- **AWS Certified Database – Specialty**: earned Oct 2022 · [verify on Credly](https://www.credly.com/badges/e06c12c3-ee70-406e-9f50-0bd8890c21dc)
 
 ---
 
