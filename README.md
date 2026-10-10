@@ -14,7 +14,7 @@
 
 ### About
 
-I lead an AI engineering team in India. B.Tech in Computer Engineering (2021), AWS Certified Developer – Associate and Database – Specialty. My work sits where LLM applications meet infrastructure: retrieval and memory for agents, local LLM inference, and the queues, search clusters and services that keep them running in production.
+I lead an AI engineering team in India. B.Tech in Computer Engineering (2021), and I earned the AWS Developer – Associate and Database – Specialty certifications in 2022 (both since expired, see below). My work sits where LLM applications meet infrastructure: retrieval and memory for agents, local LLM inference, and the queues, search clusters and services that keep them running in production.
 
 On the side I do research and publish it **with the failures included**: each experiment has a design doc and a results doc, and negative results stay in.
 
@@ -25,6 +25,16 @@ On the side I do research and publish it **with the failures included**: each ex
 - **LLM infrastructure**: local inference (Ollama, SGLang, vLLM), gateways with caching, fallback and cost tracking
 - **Distributed systems**: Elasticsearch, Kafka, Celery, Redis, PostgreSQL, Kubernetes
 - **Privacy-minded AI tooling**: PII masking, encrypted storage, audit trails, human-in-the-loop design
+
+### Certifications
+
+<p>
+  <a href="https://www.credly.com/badges/201b1ea0-1d66-4403-87d3-c6dbd2b17826"><img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" height="120"></a>
+  <a href="https://www.credly.com/badges/e06c12c3-ee70-406e-9f50-0bd8890c21dc"><img src="https://images.credly.com/images/885d38e4-55c0-4c35-b4ed-694e2b26be6c/image.png" alt="AWS Certified Database – Specialty" height="120"></a>
+</p>
+
+- **AWS Certified Developer – Associate**: issued May 2022, expired May 2025 · [verify on Credly](https://www.credly.com/badges/201b1ea0-1d66-4403-87d3-c6dbd2b17826)
+- **AWS Certified Database – Specialty**: issued Oct 2022, expired Oct 2025 · [verify on Credly](https://www.credly.com/badges/e06c12c3-ee70-406e-9f50-0bd8890c21dc)
 
 ---
 
