@@ -45,9 +45,10 @@ An LLM extracts entities per turn; a deterministic engine owns identity, time, a
 |---|---|
 | [**gdpr-llm-proxy**](https://github.com/xx-VIRUS-xx/gdpr-llm-proxy) | Proxy that masks personal data before an LLM call leaves the EU and restores it in the response. Presidio detection, Fernet-encrypted token store with TTL, 55 tests |
 | [**euaiact-compliance**](https://github.com/xx-VIRUS-xx/euaiact-compliance) | EU AI Act risk-tier classifier: rules decide the tier, retrieved regulation text (Qdrant) justifies it, every decision is audit-logged |
-| [**practice-ops-agent**](https://github.com/xx-VIRUS-xx/practice-ops-agent) | Multi-tenant back-office assistant for small clinics: scheduling, billing support, triage, field-level encryption, AI actions that wait for human approval |
-| [**LNSBotz**](https://github.com/xx-VIRUS-xx/LNSBotz) | FastAPI platform of AI utilities behind one API: a model gateway with caching, fallback and cost tracking, Celery workers, accounts, plans and payments |
+| [**vscars-public**](https://github.com/xx-VIRUS-xx/vscars-public) | VSCARS (beta): a cloud relay plus CLI that lets you use your own dev machine, with terminal, files, git and AI chat, from a phone or any browser. This repo holds the docs and the installer |
 | [**Declutter**](https://github.com/xx-VIRUS-xx/Declutter) | Chrome extension that hides page clutter and remembers your choices per site, with zero network calls |
+
+Also worth a look: [**practice-ops-agent**](https://github.com/xx-VIRUS-xx/practice-ops-agent) (multi-tenant clinic back office with field-level encryption and human-approved AI actions) and [**LNSBotz**](https://github.com/xx-VIRUS-xx/LNSBotz) (FastAPI platform of AI utilities with a model gateway, Celery workers and payments).
 
 More prototypes, system-design notes and experiments are in [my repositories](https://github.com/xx-VIRUS-xx?tab=repositories). Each README says plainly what works and what does not.
 
@@ -56,7 +57,7 @@ More prototypes, system-design notes and experiments are in [my repositories](ht
 ### Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,kafka,elasticsearch,docker,kubernetes,aws,grafana,pytorch,typescript,linux,git,django,Go,javascript" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,kafka,elasticsearch,docker,kubernetes,aws,grafana,pytorch,typescript,linux,git,go,javascript" alt="Tech stack" />
 </p>
 
 `LangChain` `LangGraph` `LlamaIndex` `RAG / GraphRAG` `Qdrant` `FAISS` `Ollama` `SGLang` `vLLM` `Celery` `OpenTelemetry`
